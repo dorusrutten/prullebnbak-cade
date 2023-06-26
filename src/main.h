@@ -1,0 +1,10 @@
+#include <Arduino.h>
+#include <Audio.h>
+#include <SD.h>
+#include <FS.h>
+#include <SPI.h>
+#include <string>
+#include <stdio.h>
+#include <ctime>
+#include <iostream>
+#include <string>
